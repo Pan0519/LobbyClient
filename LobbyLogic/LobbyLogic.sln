@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LobbyLogic", "LobbyLogic.csproj", "{0A82F844-ABD6-4102-A12B-1B8390D82BB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonILRuntime", "..\..\Assets\CommonServices\CommonILRuntime~\CommonILRuntime\CommonILRuntime.csproj", "{283A013E-4B71-47FA-988B-940D6D4CC58B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A82F844-ABD6-4102-A12B-1B8390D82BB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A82F844-ABD6-4102-A12B-1B8390D82BB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A82F844-ABD6-4102-A12B-1B8390D82BB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A82F844-ABD6-4102-A12B-1B8390D82BB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{283A013E-4B71-47FA-988B-940D6D4CC58B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{283A013E-4B71-47FA-988B-940D6D4CC58B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{283A013E-4B71-47FA-988B-940D6D4CC58B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{283A013E-4B71-47FA-988B-940D6D4CC58B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B6E9669-1F40-4D53-99DB-CA28F7DB856C}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+/Users/kim.pan/code/UnityProject/Lobby_Client/Assets/StreamingAssets/ILRuntime/Lobby.dll
+/Users/kim.pan/code/UnityProject/Lobby_Client/Assets/StreamingAssets/ILRuntime/Lobby.pdb
+/Users/kim.pan/code/UnityProject/Lobby_Client/LobbyLogic~/LobbyLogic/obj/Debug/LobbyLogic.csproj.CoreCompileInputs.cache
+/Users/kim.pan/code/UnityProject/Lobby_Client/LobbyLogic~/LobbyLogic/obj/Debug/LobbyLogic.csproj.CopyComplete
+/Users/kim.pan/code/UnityProject/Lobby_Client/LobbyLogic~/LobbyLogic/obj/Debug/Lobby.dll
+/Users/kim.pan/code/UnityProject/Lobby_Client/LobbyLogic~/LobbyLogic/obj/Debug/Lobby.pdb
