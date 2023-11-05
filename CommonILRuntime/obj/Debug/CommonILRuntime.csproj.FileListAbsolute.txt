@@ -1,0 +1,6 @@
+/Users/kim.pan/code/UnityProject/Lobby_Client/Assets/StreamingAssets/ILRuntime/CommonILRuntime.dll
+/Users/kim.pan/code/UnityProject/Lobby_Client/Assets/StreamingAssets/ILRuntime/CommonILRuntime.pdb
+/Users/kim.pan/code/UnityProject/Lobby_Client/Assets/CommonServices/CommonILRuntime~/CommonILRuntime/obj/Debug/CommonILRuntime.csproj.CoreCompileInputs.cache
+/Users/kim.pan/code/UnityProject/Lobby_Client/Assets/CommonServices/CommonILRuntime~/CommonILRuntime/obj/Debug/CommonILRuntime.csproj.CopyComplete
+/Users/kim.pan/code/UnityProject/Lobby_Client/Assets/CommonServices/CommonILRuntime~/CommonILRuntime/obj/Debug/CommonILRuntime.dll
+/Users/kim.pan/code/UnityProject/Lobby_Client/Assets/CommonServices/CommonILRuntime~/CommonILRuntime/obj/Debug/CommonILRuntime.pdb
